@@ -153,7 +153,7 @@ li{
 .nav-link:hover,
 .nav-link:focus{
     background: linear-gradient(to top, #ffe838, #fd57bf);
-    -webkit-background-clip: text; 
+    /* -webkit-background-clip: text;  */
     -webkit-text-fill-color: grey;
 
 }
@@ -238,7 +238,7 @@ li{
        font-size: 15rem;
     font-family:'The Historia Demo' sans-serif;
     background: linear-gradient(to top, #ffe838, #2B678C);
-    -webkit-background-clip: text;
+    /* -webkit-background-clip: text; */
     -webkit-text-fill-color: transparent;
     padding: 1rem;
     user-select: none;
@@ -316,10 +316,10 @@ li{
     transition: color 650ms;
 }
 
-.fa-facebook-square:hover{
-    color: #467b2;
+/* .fa-facebook-square:hover{
+    color: #467b2; */
 
-}
+/* }
 .fa-twitter-square:hover{
     color: #467b2;
     
@@ -327,7 +327,7 @@ li{
 .fa-dribbble-square:hover{
     color: #467b2;
     
-}
+} */
 /*End about
 
 /*Start services*/
